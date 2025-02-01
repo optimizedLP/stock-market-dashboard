@@ -38,44 +38,33 @@ A interactive web dashboard for stock price analysis and forecasting using Strea
 * Enter a stock ticker symbol (e.g., AAPL, GOOG, TSLA)
 * Select date range using the sidebar controls
 * Explore different tabs:
-- Historical Data: Raw price data table
-- Price Charts: Interactive line and candlestick charts
-- Decomposition: Time series component analysis
-- Forecasting: Future price predictions with adjustable horizon
+  - Historical Data: Raw price data table
+  - Price Charts: Interactive line and candlestick charts
+  - Decomposition: Time series component analysis
+  - Forecasting: Future price predictions with adjustable horizon
 
 
 ### Technologies Used 💻
-Streamlit - Web application framework
-
-yFinance - Yahoo Finance data API
-
-Plotly - Interactive visualizations
-
-Prophet - Time series forecasting
-
-Pandas - Data manipulation
-
-statsmodels - Time series decomposition
+  Streamlit - Web application framework
+  yFinance - Yahoo Finance data API
+  Plotly - Interactive visualizations
+  Prophet - Time series forecasting
+  Pandas - Data manipulation
+  statsmodels - Time series decomposition
 
 
 ### Future Improvements 🚀
-Add multiple ticker comparison
-
-Include technical indicators (RSI, MACD, Bollinger Bands)
-
-Implement alternative forecasting models (LSTM, ARIMA)
-
-Add news sentiment analysis integration
-
-Support cryptocurrency analysis
+  Add multiple ticker comparison
+  Include technical indicators (RSI, MACD, Bollinger Bands)
+  Implement alternative forecasting models (LSTM, ARIMA)
+  Add news sentiment analysis integration
+  Support cryptocurrency analysis
 
 
 ### Notes ⚠️
-Some less common ticker symbols may require manual company name mapping
-
-Forecast accuracy depends on market conditions and historical data quality
-
-Data availability subject to Yahoo Finance's API limitations
+  Some less common ticker symbols may require manual company name mapping
+  Forecast accuracy depends on market conditions and historical data quality
+  Data availability subject to Yahoo Finance's API limitations
 
 
 ### 🤝 Let's Connect
