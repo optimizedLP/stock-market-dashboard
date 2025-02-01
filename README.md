@@ -1,6 +1,6 @@
 # Stock Analysis & Forecasting 📈
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 
 A interactive web dashboard for stock price analysis and forecasting using Streamlit and machine learning.
