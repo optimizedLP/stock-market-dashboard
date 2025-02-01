@@ -67,4 +67,4 @@ A interactive web dashboard for stock price analysis and forecasting using Strea
 ### 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/dpjani)
-- [Personal Website](https://www.dpjani.github.io)
+- [Personal Website](dpjani.github.io)
