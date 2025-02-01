@@ -26,10 +26,12 @@ A interactive web dashboard for stock price analysis and forecasting using Strea
    cd stock-market-dashboard
 
 2. Install all dependencies:
-    ```pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Deploy the dashboard:
-    ```streamlit run dash.py
+    ```bash
+    streamlit run dash.py
 
 
 ### Usage 🖥️
